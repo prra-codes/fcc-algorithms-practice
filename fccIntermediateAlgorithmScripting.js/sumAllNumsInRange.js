@@ -19,5 +19,3 @@ function sumAll(arr) {
 }
 
 console.log(sumAll([1, 4]));
-
-// TESTING ONE TWO ONE TWO
